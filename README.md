@@ -29,6 +29,8 @@
   - [Counting principles](https://github.com/Amr-Aboshama/ICPC-FECU-Materials/blob/master/Math/3.%20Counting__Principles.md)
 - [Data Structure](https://github.com/Amr-Aboshama/ICPC-FECU-Materials/tree/master/Data-Structures)
   - [Segment-Tree_Update-Value_(RMQ)](https://github.com/Amr-Aboshama/ICPC-FECU-Materials/blob/master/Data-Structures/Segment-Tree_Update-Value_(RMQ).cpp)
+- [Graphs](https://github.com/Amr-Aboshama/ICPC-FECU-Materials/tree/master/Graphs)
+  - [DSU](https://github.com/Amr-Aboshama/ICPC-FECU-Materials/tree/master/Graphs/DSU)
 
 
 
