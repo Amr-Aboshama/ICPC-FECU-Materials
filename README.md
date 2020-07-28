@@ -30,7 +30,9 @@
 - [Data Structure](https://github.com/Amr-Aboshama/ICPC-FECU-Materials/tree/master/Data-Structures)
   - [Segment-Tree_Update-Value_(RMQ)](https://github.com/Amr-Aboshama/ICPC-FECU-Materials/blob/master/Data-Structures/Segment-Tree_Update-Value_(RMQ).cpp)
 - [Graphs](https://github.com/Amr-Aboshama/ICPC-FECU-Materials/tree/master/Graphs)
+  - [Dijkstra](https://github.com/Amr-Aboshama/ICPC-FECU-Materials/tree/master/Graphs/Dijkstra)
   - [DSU](https://github.com/Amr-Aboshama/ICPC-FECU-Materials/tree/master/Graphs/DSU)
+  - [MST](https://github.com/Amr-Aboshama/ICPC-FECU-Materials/tree/master/Graphs/MST)
 
 
 
